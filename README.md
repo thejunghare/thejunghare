@@ -37,8 +37,8 @@ You can find some of my projects on my GitHub profile. These projects reflect my
 
 
 ## Connect with Me
-- GitHub: github.com/your-username
-- LinkedIn: linkedin.com/in/your-username
+- Instagram: instagram.com/thejunghare
+- LinkedIn: linkedin.com/in/thejunghare
 
 
 ## Let's Collaborate
