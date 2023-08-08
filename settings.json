@@ -1,0 +1,50 @@
+{
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "go.toolsManagement.autoUpdate": true,
+  "code-runner.runInTerminal": true,
+  "editor.fontLigatures": false,
+  "git.ignoreRebaseWarning": true,
+  "editor.fontFamily": "Consolas, Fira Code",
+  "git.autofetch": true,
+  "workbench.startupEditor": "none",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "update.mode": "manual",
+  "update.showReleaseNotes": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["", "variable.language"],
+        "settings": {
+          // "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "editor.fontVariations": false,
+  "editor.letterSpacing": 0.2,
+  "workbench.colorTheme": "Jetbrains Fleet",
+  "prettier.eslintIntegration": true, 
+  "editor.cursorWidth": 2,
+  "editor.cursorBlinking": "smooth",
+   "editor.cursorStyle":"line-thin",
+  "editor.cursorSmoothCaretAnimation": "on",
+  // "editor.renderWhitespace":"all",  // make the space arrow visible
+  "editor.cursorBIinking":"solid",
+}
