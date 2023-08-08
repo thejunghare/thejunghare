@@ -1,0 +1,21 @@
+Auto Close Tag
+Auto Rename Tag
+Better Comments
+Code Runner
+ESLint
+filesize
+Import Cost
+indent-rainbow
+intellicode
+intellicode API Usage Examples
+Jeetbrains Fleet Theme
+Live Server
+Markdown All In One
+Path Intellisense
+Prettier
+Project Manager
+quick-lint-js
+Qukka.js
+Rainbow CSV
+Rest Client
+Thunder Client
