@@ -15,22 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science Engineering student with a passion for coding and building software solutions. My main areas of expertise include Go (Golang), JavaScript, and PHP.
-
+I'm a Computer Science Engineering [AI] student with a passion for coding and building software solutions.
+<!--
 ## About Me
 - 🎓 Computer Science Engineering Student
 - 💻 Full-Stack Developer
 - 🚀 Open Source Enthusiast
-
+-->
 
 ## My Interests
 
 I enjoy working with different programming languages and technologies, but my primary focus lies in:
 
-- Go (Golang): I love the simplicity and efficiency of Go, and I enjoy building high-performance applications and APIs using this language.
-- JavaScript: Frontend development with JavaScript, along with modern frameworks like React, is something I find exciting and enjoyable.
-- PHP: I have experience in creating web applications and websites using PHP, and I'm always exploring ways to improve and optimize my PHP code.
-- 
+- Go (Golang), Rust, JavaScript, PHP
+
 <!--
 ## Projects
 
