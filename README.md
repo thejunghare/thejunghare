@@ -41,6 +41,20 @@ You can find some of my projects on my GitHub profile. These projects reflect my
 
 -->
 
+<p align="center">
+  <a href="https://github.com/thejunghare">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thejunghare&theme=dark" alt="thejunghare GitHub Contribution"/>
+  </a>
+</p>
+
+<a href="https://github.com/thejunghare">
+  <img alt="thejunghare Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=thejunghare&show_icons=true&count_private=true&theme=dark" />
+</a>
+
+<a href="https://github.com/thejunghare">
+  <img alt="thejunghare Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejunghare&langs_count=8&layout=compact&theme=dark" />
+</a>
+
 ## Let's Collaborate
 If you are interested in collaborating on projects or discussing anything related to software development, feel free to reach out to me. I'm always open to new ideas and opportunities to learn and grow in this exciting field.
 
