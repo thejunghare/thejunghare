@@ -15,19 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science Engineering [AI] student with a passion for coding and building software solutions.
-<!--
-## About Me
-- 🎓 Computer Science Engineering Student
-- 💻 Full-Stack Developer
-- 🚀 Open Source Enthusiast
--->
-
-## My Interests
-
-I enjoy working with different programming languages and technologies, but my primary focus lies in:
-
-- Go (Golang), Rust, JavaScript, PHP
+👨‍💻 Coder & Educator | Building & Teaching Cool Stuff
+Computer Science Engineer who loves coding in JavaScript, and PHP.
+When I'm not building software, I'm in the classroom, teaching the next generation of techies.
+Explore my projects feedback and collaboration are always welcome!
 
 <!--
 ## Projects
