@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨‍💻 Coder & Educator | Building & Teaching Cool Stuff
-Computer Science Engineer who loves coding in JavaScript, and PHP.
-When I'm not building software, I'm in the classroom, teaching the next generation of techies.
-Explore my projects feedback and collaboration are always welcome!
+👨‍💻 Coder & Educator | Building & Teaching Cool Stuff <br>
+Computer Science Engineer who loves coding in JavaScript, and PHP. <br>
+When I'm not building software, I'm in the classroom, teaching the next generation of techies. <br>
+Explore my projects feedback and collaboration are always welcome! <br>
 
 <!--
 ## Projects
@@ -30,7 +30,7 @@ You can find some of my projects on my GitHub profile. These projects reflect my
 - Instagram: instagram.com/thejunghare
 - LinkedIn: linkedin.com/in/thejunghare
 
--->
+
 
 <p align="center">
   <a href="https://github.com/thejunghare">
@@ -45,7 +45,7 @@ You can find some of my projects on my GitHub profile. These projects reflect my
 <a href="https://github.com/thejunghare">
   <img alt="thejunghare Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejunghare&langs_count=8&layout=compact&theme=dark" />
 </a>
-
+-->
 ## Let's Collaborate
 If you are interested in collaborating on projects or discussing anything related to software development, feel free to reach out to me. I'm always open to new ideas and opportunities to learn and grow in this exciting field.
 
